@@ -1,0 +1,6 @@
+update QUERY_USER
+look into adding photos
+like limiter
+page styles
+
+lol
